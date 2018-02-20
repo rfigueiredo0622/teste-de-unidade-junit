@@ -20,7 +20,7 @@ public class AvaliadorTest {
 	
 	//testando o commit pelo eclipse.
 	
-	
+	//testando o commit pelo eclipse 2222222222.
     private final double DELTA_DOUBLE_JUNIT = 0.00001; 
     private Avaliador leiloeiro;
     private Usuario joao;
