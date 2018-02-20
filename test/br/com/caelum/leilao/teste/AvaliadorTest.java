@@ -19,6 +19,7 @@ import br.com.caelum.leilao.servico.Avaliador;
 public class AvaliadorTest {	
 	
 	//testando o commit pelo eclipse.
+	//asdfasdfasdfasdf
 	
 	//testando o commit pelo eclipse 2222222222.
     private final double DELTA_DOUBLE_JUNIT = 0.00001; 
